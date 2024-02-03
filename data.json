@@ -4,8 +4,8 @@
             "gender": "female",
             "name": {
                 "title": "Miss",
-                "first": "test",
-                "last": "Bonjour"
+                "first": "Ambre",
+                "last": "Giraud"
             },
             "location": {
                 "street": {
@@ -25,7 +25,7 @@
                     "description": "Hawaii"
                 }
             },
-            "email": "Hola",
+            "email": "ambre.giraud@example.com",
             "login": {
                 "uuid": "163119f3-53f8-462e-bdf8-27571c4e673f",
                 "username": "orangedog526",
@@ -43,7 +43,7 @@
                 "date": "2011-11-14T09:23:58.485Z",
                 "age": 12
             },
-            "phone": "/",
+            "phone": "04-29-34-29-61",
             "cell": "06-66-11-85-80",
             "id": {
                 "name": "INSEE",
