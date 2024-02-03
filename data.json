@@ -7,6 +7,11 @@
             },
             "email": "Hola / Buenos días / Buenas tardes",
             "phone": "/",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/5.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+            },
         },
         {
             "name": {
@@ -15,6 +20,11 @@
             },
             "email": "Cómo se llama usted ? / Cómo te llamas ?",
             "phone": "Vouvoyer / Tutoyer",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/5.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+            },
         }
     ],
     "info": {
