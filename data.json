@@ -25,7 +25,7 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
             },
-        }
+        },
     ],
     "info": {
         "seed": "3d55ba81a0cffedb",
