@@ -11,8 +11,8 @@
                 "large": "https://randomuser.me/api/portraits/men/5.jpg",
                 "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
-            },
-        }
+            }
+        },
         {
             "name": {
                 "first": "",
@@ -24,7 +24,7 @@
                 "large": "https://randomuser.me/api/portraits/men/5.jpg",
                 "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
-            },
+            }
         }
     ],
     "info": {
