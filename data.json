@@ -4,8 +4,8 @@
             "gender": "female",
             "name": {
                 "title": "Miss",
-                "first": "Bonjour",
-                "last": ""
+                "first": "",
+                "last": "Bonjour"
             },
             "location": {
                 "street": {
@@ -25,7 +25,7 @@
                     "description": "Hawaii"
                 }
             },
-            "email": "Bonjour",
+            "email": "Hola",
             "login": {
                 "uuid": "163119f3-53f8-462e-bdf8-27571c4e673f",
                 "username": "orangedog526",
