@@ -2,18 +2,18 @@
     "results": [
         {
             "name": {
-                "first": "Clément",
-                "last": "Meunier"
+                "first": "Test",
+                "last": "Test"
             },
             "email": "clement.meunier@example.com",
-            "phone": "03-27-73-60-01"
+            "phone": "03-Test-73-60-01"
         },
         {
             "name": {
-                "first": "Jordan",
+                "first": "Test",
                 "last": "Legrand"
             },
-            "email": "jordan.legrand@example.com",
+            "email": "jordanTestlegrand@example.com",
             "phone": "04-44-96-40-62"
         }
     ],
