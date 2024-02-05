@@ -7,54 +7,6 @@
             },
             "email": "Hola / Buenos días / Buenas tardes",
             "phone": "/"
-        },
-        {
-            "name": {
-                "first": "",
-                "last": "Comment vous appelez vous ? / Comment t'appelles tu ?"
-            },
-            "email": "Cómo se llama usted ? / Cómo te llamas ?",
-            "phone": "Vouvoyer / Tutoyer"
-        },
-        {
-            "name": {
-                "first": "",
-                "last": "Je ne comprends pas"
-            },
-            "email": "No entiendo",
-            "phone": "/"
-        },
-        {
-            "name": {
-                "first": "",
-                "last": "Enchanté/e"
-            },
-            "email": "Encantado/a",
-            "phone": "/"
-        },
-        {
-            "name": {
-                "first": "",
-                "last": "Pouvez-vous parler plus lentement ?"
-            },
-            "email": "Puede usted hablar más despacio ?",
-            "phone": "Ici on vouvoie, mais vous pouvez tutoyer"
-        },
-        {
-            "name": {
-                "first": "",
-                "last": "Je veux"
-            },
-            "email": "Quiero",
-            "phone": "/"
-        },
-        {
-            "name": {
-                "first": "",
-                "last": "Je n'ai plus faim / soif"
-            },
-            "email": "Ya no tengo hambre / sed",
-            "phone": "/"
         }
     ]
 }
