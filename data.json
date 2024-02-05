@@ -3,7 +3,7 @@
         {
             "name": {
                 "first": ".",
-                "last": "Comment v vous ? / Comment t'appelles tu ?"
+                "last": "Comment vous appelez-vous ? / Comment t'appelles-tu ?"
             },
             "email": "Cómo se llama usted ? / Cómo te llamas ?",
             "phone": "Vouvoyer / Tutoyer"
@@ -11,7 +11,7 @@
         {
             "name": {
                 "first": ".",
-                "last": "Ckomment vous appelez vous ? / Comment t'appelles tu ?"
+                "last": "Comment vous appelez-vous ? / Comment t'appelles-tu ?"
             },
             "email": "Cómlo se llama usted ? / Cómo te llamas ?",
             "phone": "Voluvoyer / Tutoyer"
