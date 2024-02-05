@@ -6,7 +6,7 @@
                 "last": "Salut, Bonjour / Bonsoir"
             },
             "email": "Hola / Buenos días / Buenas tardes",
-            "phone": ""
+            "phone": "/"
         },
         {
             "name": {
@@ -22,7 +22,7 @@
                 "last": "Je ne comprends pas"
             },
             "email": "No entiendo",
-            "phone": ""
+            "phone": "/"
         },
         {
             "name": {
@@ -30,7 +30,7 @@
                 "last": "Enchanté/e"
             },
             "email": "Encantado/a",
-            "phone": ""
+            "phone": "/"
         },
         {
             "name": {
@@ -46,7 +46,7 @@
                 "last": "Je veux"
             },
             "email": "Quiero",
-            "phone": ""
+            "phone": "/"
         },
         {
             "name": {
@@ -54,7 +54,7 @@
                 "last": "Je n'ai plus faim / soif"
             },
             "email": "Ya no tengo hambre / sed",
-            "phone": ""
+            "phone": "/"
         }
     ]
 }
