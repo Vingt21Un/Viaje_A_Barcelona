@@ -121,7 +121,7 @@ body {
   grid-column: 1 / -1;
 }
 
-.table-item {
+.phrase-item {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   align-items: center;
@@ -129,7 +129,7 @@ body {
   background-color: #fff;
 }
 
-.table-item:nth-child(odd) {
+.phrase-item:nth-child(odd) {
   background: #F9F1F1;
 }
 
