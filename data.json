@@ -17,5 +17,10 @@
             "phone": "Vouvoyer / Tutoyer"
         }
     ],
+    "info": {
+        "seed": "0588657a16dbdc38",
+        "results": 2,
+        "page": 1,
+        "version": "1.4"
     }
 }
