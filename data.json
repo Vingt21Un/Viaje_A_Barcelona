@@ -60,6 +60,62 @@
             "gender": "male",
             "name": {
                 "title": "Mr",
+                "first": "Clément",
+                "last": "Meunier"
+            },
+            "location": {
+                "street": {
+                    "number": 9799,
+                    "name": "Place de la Mairie"
+                },
+                "city": "Perpignan",
+                "state": "Loir-et-Cher",
+                "country": "France",
+                "postcode": 33593,
+                "coordinates": {
+                    "latitude": "42.6094",
+                    "longitude": "-154.6891"
+                },
+                "timezone": {
+                    "offset": "-7:00",
+                    "description": "Mountain Time (US & Canada)"
+                }
+            },
+            "email": "clement.meunier@example.com",
+            "login": {
+                "uuid": "2a2f4b84-b418-40d6-bee7-7dd664cc6a00",
+                "username": "tinykoala529",
+                "password": "titanium",
+                "salt": "StgFaZAB",
+                "md5": "6f4ef6d06f63cc156f24d032fea6d719",
+                "sha1": "eea47111c791569474ca6cc72d861108094ca784",
+                "sha256": "a4ef66e8af6a8b577cd6b781550afa34c90b9b07c2feaae07194b18c502ca5b9"
+            },
+            "dob": {
+                "date": "1993-08-22T17:13:18.778Z",
+                "age": 30
+            },
+            "registered": {
+                "date": "2019-02-16T19:23:16.758Z",
+                "age": 4
+            },
+            "phone": "03-27-73-60-01",
+            "cell": "06-10-46-34-35",
+            "id": {
+                "name": "INSEE",
+                "value": "1930766752468 86"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/43.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
+            },
+            "nat": "FR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
                 "first": "Jordan",
                 "last": "Legrand"
             },
