@@ -2,7 +2,7 @@
     "results": [
         {
             "name": {
-                "first": "",
+                "first": ".",
                 "last": "Comment v vous ? / Comment t'appelles tu ?"
             },
             "email": "Cómo se llama usted ? / Cómo te llamas ?",
@@ -10,7 +10,7 @@
         },
         {
             "name": {
-                "first": "",
+                "first": ".",
                 "last": "Ckomment vous appelez vous ? / Comment t'appelles tu ?"
             },
             "email": "Cómlo se llama usted ? / Cómo te llamas ?",
