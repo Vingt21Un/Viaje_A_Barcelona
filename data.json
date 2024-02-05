@@ -16,11 +16,5 @@
             "email": "Cómo se llama usted ? / Cómo te llamas ?",
             "phone": "Vouvoyer / Tutoyer"
         }
-    ],
-    "info": {
-        "seed": "3d55ba81a0cffedb",
-        "results": 50,
-        "page": 1,
-        "version": "1.4"
-    }
+    ]
 }
