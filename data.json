@@ -27,20 +27,6 @@
                 "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
                 "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
             }
-        },
-        {
-            "name": {
-                "title": "Mr",
-                "first": "Clément",
-                "last": "Meunier"
-            },
-            "email": "clement.meunier@example.com",
-            "phone": "03-27-73-60-01",
-            "picture": {
-                "large": "https://randomuser.me/api/portraits/men/43.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
-            }
         }
     ],
     "info": {
