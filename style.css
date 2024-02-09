@@ -17,7 +17,7 @@ body {
 /* Nav */
 .side-nav {
   position: fixed;
-  width: 220px; /* Largeur de la barre latérale par défaut */
+  width: 220px; /* Largeur de la barre latÃ©rale par dÃ©faut */
   height: 100%;
   border-right: 2px solid #e3e8f0;
   background-color: #fdfdff;
@@ -25,15 +25,15 @@ body {
 }
 
 .side-nav.collapsed {
-    width: 50px; /* Largeur réduite de la barre latérale */
+    width: 50px; /* Largeur rÃ©duite de la barre latÃ©rale */
 }
 
 .side-nav.collapsed .nav-links {
-    display: none; /* Masquer les éléments contenant les textes */
+    display: none; /* Masquer les Ã©lÃ©ments contenant les textes */
 }
 
 .side-nav.collapsed .titre {
-    display: none; /* Masquer les éléments contenant les textes */
+    display: none; /* Masquer les Ã©lÃ©ments contenant les textes */
 }
 
 .side-nav.collapsed .nav-logo {
@@ -144,11 +144,11 @@ body {
   padding: 10px 15px 20px;
 }
 
-.table-results {
+.phrase-results {
   grid-column: 1 / -1;
 }
 
-.table-item {
+.phrase-item {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   align-items: center;
@@ -156,7 +156,7 @@ body {
   background-color: #fff;
 }
 
-.table-item:nth-child(odd) {
+.phrase-item:nth-child(odd) {
   background: #F9F1F1;
 }
 

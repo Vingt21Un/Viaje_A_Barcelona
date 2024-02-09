@@ -1,0 +1,32 @@
+[
+    {
+        "french": "Salut, Bonjour / Bonsoir",
+        "spanish": "Hola / Buenos días / Buenas tardes"
+    },
+    {
+        "french": "Comment vous appelez vous ? / Comment t'appelles tu ?",
+        "spanish": "Cómo se llama usted ? / Cómo te llamas ?",
+        "otherDetails": "Vouvoyer / Tutoyer"
+    },
+    {
+        "french": "Je ne comprends pas",
+        "spanish": "No entiendo"
+    },
+    {
+        "french": "Enchanté/e",
+        "spanish": "Encantado/a"
+    },
+    {
+        "french": "Pouvez-vous parler plus lentement ?",
+        "spanish": "Puede usted hablar más despacio ?",
+        "otherDetails": "Ici on vouvoie, mais vous pouvez tutoyer"
+    },
+    {
+        "french": "Je veux",
+        "spanish": "Quiero"
+    },
+    {
+        "french": "Je n'ai plus faim / soif",
+        "spanish": "Ya no tengo hambre / sed"
+    }
+]
