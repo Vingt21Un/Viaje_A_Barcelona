@@ -1,5 +1,5 @@
 async function getPhrases() {
-    const res = await fetch("https://raw.githubusercontent.com/LelouchFR/viaje-a-barcelona/main/assets/json/data.json");
+    const res = await fetch("https://raw.githubusercontent.com/Vingt21Un/Viaje_A_Barcelona/main/assets/json/data.json");
     const phrases = await res.json();
 
     dataArray = orderList(phrases);
