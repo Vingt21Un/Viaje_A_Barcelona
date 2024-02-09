@@ -1,5 +1,5 @@
 async function getPhrases() {
-    const res = await fetch("./assets/json/data.json");
+    const res = await fetch("https://raw.githubusercontent.com/Vingt21Un/Viaje_A_Barcelona/main/assets/json/data.json");
     const phrases = await res.json();
 
     dataArray = orderList(phrases);
@@ -45,6 +45,19 @@ function filterData(data) {
 
     createPhraseList(filteredArr);
 }
+
+const sideNav = document.querySelector('.side-nav');
+const navLogo = document.querySelector('.nav-logo');
+
+navLogo.addEventListener('click', function() {
+    if (sideNav.classList.contains('collapsed')) {
+        sideNav.classList.remove('collapsed');
+        document.querySelector('.main-content').style.marginLeft = "-25px"; // Largeur de la barre latérale par défaut
+    } else {
+        sideNav.classList.add('collapsed');
+        document.querySelector('.main-content').style.marginLeft = "-200px"; // Largeur réduite de la barre latérale
+    }
+});
 
 const searchInput = document.querySelector("#search");
 const searchResult = document.querySelector(".phrase-results");
