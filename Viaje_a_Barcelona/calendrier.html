@@ -14,22 +14,35 @@
   <body>
 
     <div class="global-container">
-
-      <nav class="side-nav">
-        <div class="nav-logo">
+      <nav class="side-nav" id="sideNav">
+        <div class="nav-logo" id="navLogo">
           <img src="images/logo.svg">
-          <h1>Viaje</h1>
+            <h1 class="titre">Viaje</h1>
         </div>
-
-        <a href="index.html" class="bloc-link">
-          <img src="images/translate.png">
-          <span class="nav-links">Traducteur</span>
-        </a>
-        <a href="calendrier.html" class="bloc-link active">
-          <img src="images/calendrier.png">
-          <span class="nav-links">Calendrier</span>
-        </a>
+          <a href="index.html" class="bloc-link">
+            <img src="images/translate.png">
+            <span class="nav-links">Traducteur </span>
+          </a>
+          <a href="calendrier.html" class="bloc-link active">
+            <img src="images/calendrier.png">
+            <span class="nav-links">Calendrier</span>
+          </a>
       </nav>
+
+      <script>
+          const sideNav = document.getElementById('sideNav');
+          const navLogo = document.getElementById('navLogo');
+
+          navLogo.addEventListener('click', function() {
+        if (sideNav.classList.contains('collapsed')) {
+            sideNav.classList.remove('collapsed');
+            document.querySelector('.main-content').style.marginLeft = "-25px"; // Largeur de la barre latérale par défaut
+        } else {
+            sideNav.classList.add('collapsed');
+            document.querySelector('.main-content').style.marginLeft = "-200px"; // Largeur réduite de la barre latérale
+        }
+          });
+      </script>
 
       <main class="main-content">
 
