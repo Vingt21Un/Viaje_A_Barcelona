@@ -17,10 +17,36 @@ body {
 /* Nav */
 .side-nav {
   position: fixed;
-  width: 250px;
+  width: 220px; /* Largeur de la barre latérale par défaut */
   height: 100%;
   border-right: 2px solid #e3e8f0;
   background-color: #fdfdff;
+  transition: width 0.3s ease;
+}
+
+.side-nav.collapsed {
+    width: 50px; /* Largeur réduite de la barre latérale */
+}
+
+.side-nav.collapsed .nav-links {
+    display: none; /* Masquer les éléments contenant les textes */
+}
+
+.side-nav.collapsed .titre {
+    display: none; /* Masquer les éléments contenant les textes */
+}
+
+.side-nav.collapsed .nav-logo {
+    block-size: 80px;
+    margin-left: -5px;
+}
+
+.side-nav.collapsed .bloc-link {
+    padding: 20px 15px;
+}
+
+.main-content {
+    transition: margin-left 0.3s ease;
 }
 
 .nav-logo {
@@ -42,7 +68,7 @@ body {
   font-weight: 300;
   color: #838f9f;
   text-decoration: none;
-  padding: 20px 30px;
+  padding: 20px 25px;
 }
 .bloc-link:hover {
   background: #f8f8f8;
@@ -66,6 +92,7 @@ body {
 .main-content {
   grid-column: 2;
   padding: 30px;
+  margin-left: -25px;
 }
 
 .input-control {
