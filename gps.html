@@ -4,7 +4,7 @@
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Viaje a Barcelona</title>
+        <title>Recherche de traductions</title>
         <link rel="stylesheet" href="style.css" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -18,7 +18,7 @@
                     <img src="./assets/images/logo.svg">
                     <h1 class="titre">Viaje</h1>
                 </div>
-                <a href="index.html" class="bloc-link active">
+                <a href="index.html" class="bloc-link">
                     <img src="./assets/images/translate.png">
                     <span class="nav-links">Traducteur</span>
                 </a>
@@ -30,24 +30,29 @@
                     <img src="./assets/images/book.png">
                     <span class="nav-links">Conjugaison</span>
                 </a>
-                <a href="./gps.html" class="bloc-link">
+                <a href="./gps.html" class="bloc-link active">
                     <img src="./assets/images/gps.png">
                     <span class="nav-links">Carte</span>
                 </a>
             </nav>
             <main class="main-content">
-                <div class="input-control">
-                    <label for="search">
-                        <img src="./assets/images/search.svg">
-                    </label>
-                    <input type="text" id="search" placeholder="Rechercher une traduction">
+                <img class="carte" src="./assets/images/barcelone-carte2.png" />
+                <div class="liste-lieux">
+                    <br>
+                    <ol>
+                        <li><a href="https://maps.app.goo.gl/sRr7arCRDy6ucizf8" target="_blank">Aéroport</li>
+                        <li><a href="https://maps.app.goo.gl/hPWNPsHU8XRL7PdS7" target="_blank">Quartier Gothique</li>
+                        <li><a href="https://maps.app.goo.gl/5nshsPq3zUs2rECs5" target="_blank">La Rambla</li>
+                        <li><a href="https://maps.app.goo.gl/ksxCx2UWBYE5yAdK7" target="_blank">Port Vell</li>
+                        <li><a href="https://maps.app.goo.gl/D3aP8GyUB9RwviX47" target="_blank">La pedrera</li>
+                        <li><a href="https://maps.app.goo.gl/77NpBzrEYz5yv37Z6" target="_blank">Parc Güell</li>
+                        <li><a href="https://maps.app.goo.gl/pEJTzPCjebFcjKps5" target="_blank">Musée Olympique du Sport</li>
+                        <li><a href="https://maps.app.goo.gl/ogNHQAjmYLnHX5r29" target="_blank">Montjuïc</li>
+                        <li><a href="https://maps.app.goo.gl/beHWJzgXezvCkWBw8" target="_blank">Golondrinas</li>
+                        <li><a href="https://maps.app.goo.gl/muekZ9qs72RmGthD9" target="_blank">Musée Dalí à Figueras</li>
+                        <li><a href="https://maps.app.goo.gl/F8exRxSkbdki53Jv9" target="_blank">Musée Picasso</li>      
+                    </ol>
                 </div>
-                <h2 class="main-title">Résultats de la recherche</h2>
-                <div class="table">
-                    <h3 class="table-title">Français</h3>
-                    <h3 class="table-title">Espagnol</h3>
-                </div>
-                <div class="phrase-results"></div>
             </main>
         </div>
         <script src="./script.js"></script>

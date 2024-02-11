@@ -135,7 +135,7 @@ body {
 
 .table {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
 }
 
 .table-title {
@@ -150,7 +150,7 @@ body {
 
 .phrase-item {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   align-items: center;
   padding: 15px 10px;
   background-color: #fff;
@@ -207,4 +207,46 @@ body {
     box-shadow: 0 5px 10px rgba(
       0, 0, 0, 0.1);
   }
+}
+
+.conjugaison-title {
+  text-align: center;
+}
+
+.liste-conjugaison {
+  margin-left: 30px;
+}
+
+
+.carte {
+  width: 100%;
+  margin:0;
+  padding:0;
+  background-size: cover; /* version standardisée */
+}
+
+
+
+
+ol {
+  list-style-type: none;
+}
+
+ol li {
+  padding-left: 1.5rem;
+  background-image: url(./assets/images/gps.png);
+  background-position: 0 0;
+  background-size: 1.1rem 1.1rem;
+  background-repeat: no-repeat;
+  font-size: 18px;
+
+}
+
+a:link {
+  color: #E52121;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #9C1919;
 }

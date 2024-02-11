@@ -21,9 +21,8 @@ function createPhraseList(phrasesList) {
         listItem.innerHTML = `
             <p class="french">${phrase.french}</p>
             <p class="spanish">${phrase.spanish}</p>
-            <p class="other-details">${phrase.otherDetails ?? "/"}</p>
         `;
-
+        //<p class="other-details">${phrase.otherDetails ?? "/"}</p>
         searchResult.appendChild(listItem);
     }
 }
