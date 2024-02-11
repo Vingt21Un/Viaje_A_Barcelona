@@ -4,6 +4,10 @@
         "spanish": "Hola / Buenos días / Buenas tardes"
     },
     {
+        "french": "Enchanté/e",
+        "spanish": "Encantado/a"
+    },
+    {
         "french": "Comment vous appelez vous ? / Comment t'appelles tu ?",
         "spanish": "Cómo se llama usted ? / Cómo te llamas ?",
         "otherDetails": "Vouvoyer / Tutoyer"
@@ -13,20 +17,244 @@
         "spanish": "No entiendo"
     },
     {
-        "french": "Enchanté/e",
-        "spanish": "Encantado/a"
-    },
-    {
         "french": "Pouvez-vous parler plus lentement ?",
         "spanish": "Puede usted hablar más despacio ?",
         "otherDetails": "Ici on vouvoie, mais vous pouvez tutoyer"
+    },
+    {
+        "french": "Je peux vous aider ?",
+        "spanish": "Puedo ayudarlo/la/te"
     },
     {
         "french": "Je veux",
         "spanish": "Quiero"
     },
     {
+        "french": "Bon appétit",
+        "spanish": "¡Buen provecho !"
+    },
+    {
         "french": "Je n'ai plus faim / soif",
         "spanish": "Ya no tengo hambre / sed"
+    },
+    {
+        "french": "Comme c'est bon !",
+        "spanish": "¡Qué rico !"
+    },
+    {
+        "french": "Mettre / Débarrasser la table",
+        "spanish": "Poner / Quitar la mesa"
+    },
+    {
+        "french": "La nappe",
+        "spanish": "El mantel"
+    },
+    {
+        "french": "Les assiettes",
+        "spanish": "Los platos"
+    },
+    {
+        "french": "Les verres",
+        "spanish": "Los vasos"
+    },
+    {
+        "french": "Les fourchettes",
+        "spanish": "Los tenedores"
+    },
+    {
+        "french": "Les couteaux",
+        "spanish": "Los cuchillos"
+    },
+    {
+        "french": "Les cuillères / petites cuillères",
+        "spanish": "Las cucharas / cucharitas"
+    },
+    {
+        "french": "Les couverts",
+        "spanish": "Los coubiertos"
+    },
+    {
+        "french": "Les bols",
+        "spanish": "Los tazones"
+    },
+    {
+        "french": "Petit déjeuner / Déjeuner / Dîner",
+        "spanish": "Desajunar / Comer / Cenar"
+    },
+    {
+        "french": "Le réfrigérateur / frigo",
+        "spanish": "La nevera"
+    },
+    {
+        "french": "Le jus de fruits",
+        "spanish": "El zumo de frutas"
+    },
+    {
+        "french": "Chaud / Froid",
+        "spanish": "Caliente / Frío"
+    },
+    {
+        "french": "La confiture",
+        "spanish": "La mermelada"
+    },
+    {
+        "french": "Eau plate / Eau gazeuse",
+        "spanish": "Agua sin gas / Agua con gas"
+    },
+    {
+        "french": "Sucre / Sel / Poivre",
+        "spanish": "Azúcar / Sal / Pimienta"
+    },
+    {
+        "french": "Pain",
+        "spanish": "Pain"
+    },
+    {
+        "french": "Pain grillé",
+        "spanish": "Tostadas"
+    },
+    {
+        "french": "Un Milk Shake",
+        "spanish": "Un batido"
+    },
+    {
+        "french": "Un sandwich",
+        "spanish": "Un bocadillo"
+    },
+    {
+        "french": "Jambon",
+        "spanish": "Jamón"
+    },
+    {
+        "french": "Fromage",
+        "spanish": "Queso"
+    },
+    {
+        "french": "Oeuf",
+        "spanish": "Huevo"
+    },
+    {
+        "french": "Omelette",
+        "spanish": "Tortilla"
+    },
+    {
+        "french": "Filet de porc",
+        "spanish": "Lomo"
+    },
+    {
+        "french": "Poivrons / Piments",
+        "spanish": "Pimientos / Guindillas"
+    },
+    {
+        "french": "Poulet",
+        "spanish": "Pollo"
+    },
+    {
+        "french": "Viande",
+        "spanish": "Carne"
+    },
+    {
+        "french": "Poisson",
+        "spanish": "Pescado"
+    },
+    {
+        "french": "Beurre",
+        "spanish": "Mantequilla"
+    },
+    {
+        "french": "Huile",
+        "spanish": "Aceite"
+    },
+    {
+        "french": "Fruits / Légumes",
+        "spanish": "Frutas / Verduras"
+    },
+    {
+        "french": "Haricots",
+        "spanish": "Judías"
+    },
+    {
+        "french": "J'ai mal à la tête / au ventre",
+        "spanish": "Me duele la cabeza / la barriga"
+    },
+    {
+        "french": "J'ai mal aux pieds / auw dents",
+        "spanish": "Me duelen los pies / las muelas"
+    },
+    {
+        "french": "J'ai froid / chaud",
+        "spanish": "Tengo frío / calor"
+    },
+    {
+        "french": "J'ai des vertiges",
+        "spanish": "Estoy mareado / Tengo vértigos"
+    },
+    {
+        "french": "J'ai de la fièvre",
+        "spanish": "Tengo fiebre"
+    },
+    {
+        "french": "Je suis allergique à",
+        "spanish": "Soy alérgico(a) a"
+    },
+    {
+        "french": "Fatigué",
+        "spanish": "Cansado(a)"
+    },
+    {
+        "french": "Se reposer",
+        "spanish": "Descansar"
+    },
+    {
+        "french": "Se coucher",
+        "spanish": "Acostarse / Ir a la cama"
+    },
+    {
+        "french": "S'évanouir",
+        "spanish": "Desmayarse"
+    },
+    {
+        "french": "Un docteur",
+        "spanish": "Un médico"
+    },
+    {
+        "french": "Payer par carte / en espèce",
+        "spanish": "Pagar con tarjeta / en efectivo"
+    },
+    {
+        "french": "L'addition",
+        "spanish": "La cuenta"
+    },
+    {
+        "french": "A quelle heure dînons-nous ?",
+        "spanish": "¿A qué hora cenamos ?"
+    },
+    {
+        "french": "Où allons-nous ce matin ?",
+        "spanish": "¿Adónde vamos esta mañana?"
+    },
+    {
+        "french": "Puis-je en avoir un peu plus ?",
+        "spanish": "¿Pudiera tener un poco más ?"
+    },
+    {
+        "french": "Merci beaucoup de nous avoir accueillis pendant ces quelques jours",
+        "spanish": "Muchas gracias por alojarnos estos últimos días."
+    },
+    {
+        "french": "Pouvons nous venir avec vous ?",
+        "spanish": "¿Podemos ir con Ustedes ?"
+    },
+    {
+        "french": "Depuis quand vivez-vous ici ?",
+        "spanish": "¿Desde hace cuánto tiempo vive aquí ?"
+    },
+    {
+        "french": "Que dinons-nous ce soir ?",
+        "spanish": "¿Qué cenamos este noche ?"
+    },
+    {
+        "french": "Cela vous dérange si...?",
+        "spanish": "¿Le molesta si...?"
     }
 ]
