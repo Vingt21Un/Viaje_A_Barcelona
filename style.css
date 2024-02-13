@@ -225,6 +225,20 @@ body {
   background-size: cover; /* version standardisée */
 }
 
+.photos-voyage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  background-size: cover; /* version standardisée */
+}
+
+.photo-debut-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 5%;
+}
 
 
 
