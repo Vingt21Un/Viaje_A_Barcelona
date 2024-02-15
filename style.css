@@ -39,6 +39,7 @@ body {
 .side-nav.collapsed .nav-logo {
     block-size: 80px;
     margin-left: -5px;
+    
 }
 
 .side-nav.collapsed .bloc-link {
@@ -52,7 +53,7 @@ body {
 .nav-logo {
   display: flex;
   justify-content: center;
-  margin-bottom: 40px;
+  margin-bottom: 10px;
   cursor: pointer;
   padding: 30px;
 }
