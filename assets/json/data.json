@@ -256,5 +256,29 @@
     {
         "french": "Cela vous dérange si...?",
         "spanish": "¿Le molesta si...?"
+    },
+    {
+        "french": "La trousse de premiers secours",
+        "spanish": "El botiquín"
+    },
+    {
+        "french": "La serviette",
+        "spanish": "La toalla"
+    },
+    {
+        "french": "Le maillot de bain",
+        "spanish": "El bañador"
+    },
+    {
+        "french": "Le pijama",
+        "spanish": "El pijama"
+    },
+    {
+        "french": "Les chaussettes",
+        "spanish": "Los calcetines"
+    },
+    {
+        "french": "El monedero",
+        "spanish": "Le porte-monnaie"
     }
 ]
